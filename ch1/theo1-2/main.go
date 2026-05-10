@@ -1,4 +1,4 @@
-package theo1_2
+package main
 
 // Go program to concatenate command-line arguments
 // Concatenates all command-line arguments into a single string, separated by spaces.

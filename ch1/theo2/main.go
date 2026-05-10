@@ -1,4 +1,4 @@
-package theo2
+package main
 
 // Go program to concatenate command-line arguments
 // uses a for loop with range to iterate over command-line arguments

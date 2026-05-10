@@ -1,4 +1,4 @@
-package theo1
+package main
 
 import "fmt"
 
